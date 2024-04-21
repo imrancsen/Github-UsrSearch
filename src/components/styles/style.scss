@@ -1,0 +1,38 @@
+
+
+// .container{
+//     top: 30%;
+//     text-align: center;
+//     background: rgb(245 240 241);
+//     margin: 2rem auto;
+//     width: 35rem;
+//     height: auto;
+//     padding: 1em;
+//     border: 1px solid #ccc;
+//     border-radius: 1em;
+//     display: grid;
+//     align-items: end;
+//     justify-content: space-around;
+//   }
+  .search-bar{
+    margin: 1rem;
+      padding: 1rem;
+      border: 1px solid rgb(235, 155, 155);
+      border-radius: 1em;
+      box-sizing: border-box;
+      background-color: #FFF;
+      width: 38%;
+      height: 27%;
+      font-size: 1rem;
+  }
+  button{
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    margin-top: 1rem;
+    font-weight: bold;
+    display: inline-block;
+    outline: none;
+    border-radius: 3rem;
+    cursor: pointer;
+  
+  }
